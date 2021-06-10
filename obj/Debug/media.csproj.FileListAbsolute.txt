@@ -1,0 +1,10 @@
+C:\Users\Mateus\Documents\Projetos C#\media\bin\Debug\media.exe.config
+C:\Users\Mateus\Documents\Projetos C#\media\bin\Debug\media.exe
+C:\Users\Mateus\Documents\Projetos C#\media\bin\Debug\media.pdb
+C:\Users\Mateus\Documents\Projetos C#\media\obj\Debug\media.csprojAssemblyReference.cache
+C:\Users\Mateus\Documents\Projetos C#\media\obj\Debug\media.frmMedia.resources
+C:\Users\Mateus\Documents\Projetos C#\media\obj\Debug\media.Properties.Resources.resources
+C:\Users\Mateus\Documents\Projetos C#\media\obj\Debug\media.csproj.GenerateResource.cache
+C:\Users\Mateus\Documents\Projetos C#\media\obj\Debug\media.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Documents\Projetos C#\media\obj\Debug\media.exe
+C:\Users\Mateus\Documents\Projetos C#\media\obj\Debug\media.pdb
